@@ -26,6 +26,7 @@ gem 'will_paginate-bootstrap4'
 
 gem 'activeadmin', github: 'activeadmin/activeadmin'
 gem 'inherited_resources', github: 'activeadmin/inherited_resources'
+gem 'letter_opener'
 
 group :development do
   gem 'web-console', '>= 3.3.0'
@@ -38,5 +39,4 @@ group :development, :test do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'dotenv-rails'
-  gem 'letter_opener'
 end
