@@ -26,13 +26,13 @@ gem 'will_paginate-bootstrap4'
 
 gem 'activeadmin', github: 'activeadmin/activeadmin'
 gem 'inherited_resources', github: 'activeadmin/inherited_resources'
-gem 'letter_opener'
 
 group :development do
   gem 'web-console', '>= 3.3.0'
 end
 
 group :development, :test do
+  gem 'letter_opener'
   gem 'pry-byebug'
   gem 'pry-rails'
   gem 'listen', '~> 3.0.5'
