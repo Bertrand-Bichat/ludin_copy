@@ -13,4 +13,4 @@ Post an ad, and meet your future game partners!
 ✅ Search by name if you have a particular idea, or by city in the Gamenight tab!
 
 
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates/tree/no-update), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
